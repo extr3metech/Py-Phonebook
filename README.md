@@ -1,5 +1,6 @@
 Py-Phonebook
 ============
 
-[This application is for learning and getting used with Github]
-Completely text mode phonebook appplication using Python
+This project is for learning and getting used with Github.
+
+A simple phonebook appplication using Python.
